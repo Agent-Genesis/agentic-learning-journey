@@ -10,7 +10,7 @@
 
 This directory organizes work into three progressive phases:
 
-```
+```sh
 ~/work/
 ├── learning/      # LEARNING phase (active)
 ├── design/        # DESIGN phase (next)
@@ -208,7 +208,7 @@ This directory organizes work into three progressive phases:
 **Next phase:** Designing with Omar's input
 **Future phase:** Building (only after design approved)
 
-**Premature implementation = wasted effort**
+**_Premature implementation = wasted effort_**
 
 ---
 
