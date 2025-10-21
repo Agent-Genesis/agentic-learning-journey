@@ -78,7 +78,12 @@ Official documentation for GitHub CLI (gh) \- bring GitHub to your terminal for 
 ⚔️TAC Lesson 1 \- Hello Agentic Coding Repository
 
 ```shell
-git clone https://github.com/disler/tac-1.git
+# Access the TAC-1 repository with your Personal Access Token
+# Replace YOUR_TOKEN_HERE with the actual token from your course
+git clone https://YOUR_TOKEN_HERE@github.com/disler/tac-1.git
+
+# Alternative: Use GitHub CLI if you have access
+gh repo clone disler/tac-1
 ```
 
 ⚡[Git Setup Guide](https://git-scm.com/downloads)
