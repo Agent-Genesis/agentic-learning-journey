@@ -2,11 +2,13 @@
 
 # Dynamic Configuration Generator Script
 # This script generates personalized configuration files from templates
+# Enhanced with Sequential Thinking MCP integration
 
 set -e  # Exit on any error
 
 echo "🔧 Dynamic Configuration Generator"
 echo "================================="
+echo "🧠 Enhanced with Sequential Thinking capabilities"
 
 # Check if .env.local exists
 if [ ! -f ".env.local" ]; then
@@ -105,6 +107,13 @@ echo ""
 echo "📋 Next steps:"
 echo "   1. Review the generated files"
 echo "   2. Test your agentic setup"
-echo "   3. Start your learning journey"
+echo "   3. Use Sequential Thinking for complex decisions"
+echo "   4. Start your learning journey"
+echo ""
+echo "🧠 Sequential Thinking MCP is available for:"
+echo "   • Complex architectural decisions"
+echo "   • Systematic problem analysis"
+echo "   • Root cause analysis"
+echo "   • Multi-step planning scenarios"
 echo ""
 echo "🔐 Security reminder: Never commit .env.local to version control!"
