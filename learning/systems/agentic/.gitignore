@@ -1,0 +1,62 @@
+# Secrets and sensitive data
+*.pem
+*.key
+*.p12
+*.pfx
+github_pat_*
+**/*github_pat_*
+**/*token*
+**/*secret*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+.env.staging
+
+# Keep template files but ignore actual environment files
+# .env.sample is intentionally NOT ignored (it's a template)
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+workspace/temp/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Backup files
+*.bak
+*.backup
+
+# Python cache (if any)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Node modules (if any)
+node_modules/
