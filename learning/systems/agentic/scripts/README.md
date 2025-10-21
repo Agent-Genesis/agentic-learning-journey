@@ -4,6 +4,23 @@ This directory contains utility scripts for the agentic learning journey.
 
 ## 🚀 Available Scripts
 
+### `setup-user.sh` ⭐
+**Complete user setup script** - Configures the entire project for a new user.
+
+**Usage:**
+```bash
+# First time setup
+./scripts/setup-user.sh
+```
+
+**Features:**
+- ✅ Environment configuration validation
+- ✅ Personalized file generation
+- ✅ Git repository setup
+- ✅ File permissions configuration
+- ✅ Backup creation
+- ✅ Complete validation
+
 ### `clone-tac-1.sh`
 Securely clones the TAC-1 course repository using environment variables.
 
@@ -23,6 +40,21 @@ cp .env.sample .env.local
 - ✅ Existing directory handling
 - ✅ Clear success/error messages
 - ✅ Security reminders
+
+### `generate-configs.sh`
+**Configuration generator** - Creates personalized files from templates.
+
+**Usage:**
+```bash
+# Generate/update personalized configurations
+./scripts/generate-configs.sh
+```
+
+**Features:**
+- ✅ Template processing with environment variables
+- ✅ Configuration validation
+- ✅ Multiple file generation
+- ✅ Error handling and reporting
 
 ## 🔒 Security Notes
 
