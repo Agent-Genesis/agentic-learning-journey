@@ -1,62 +1,62 @@
-# Notes - Leçon 001: Hello Agentic Coding
+# Notes - Lesson 001: Hello Agentic Coding
 
-## 📖 Résumé de la Leçon
+## 📖 Lesson Summary
 
-**Date**: 21 octobre 2025
+**Date**: October 21, 2025
 **Participants**: Omar El Mountassir & Claude
-**Statut**: En cours de lecture
+**Status**: Currently reading
 
-## 💡 Concepts Clés Compris
+## 💡 Key Concepts Understood
 
-### 1. La Révolution Agentic (Phase 2)
-- **Phase 1**: AI Coding - Utiliser l'IA pour générer du code
-- **Phase 2**: Agentic Coding - Construire des systèmes qui construisent des systèmes
-- **Le changement**: Passer de "coder" à "commander du calcul"
+### 1. The Agentic Revolution (Phase 2)
+- **Phase 1**: AI Coding - Use AI to generate code
+- **Phase 2**: Agentic Coding - Build systems that build systems
+- **The change**: Move from "coding" to "commanding compute"
 
-### 2. Mentalité "Stop Coding" 🚫
+### 2. "Stop Coding" Mindset 🚫
 > "Your hands and mind are no longer the best tool for the job of writing code"
 
-**Pourquoi?**
-- Les LLMs avec architecture agentique sur supercalculateurs sont meilleurs codeurs
-- Notre valeur: Planification, Review, Création de boucles fermées
-- Si on tape encore du code, on ne peut pas suivre
+**Why?**
+- LLMs with right agent architecture on supercomputers are better coders
+- Our value: Planning, Review, Creating closed loops
+- If we still type code, we can't keep up
 
-### 3. Nouveau Rôle de l'Ingénieur (Phase 2)
-- **Allocation**: Cycles d'ingénierie sur planning & reviewing
-- **Focalisation**: Structures en boucle fermée (closed loop)
-- **Importance**: Compréhension du code reste critique, mais on ne code plus
+### 3. New Engineer Role (Phase 2)
+- **Allocation**: Engineering cycles on planning & reviewing
+- **Focus**: Closed loop structures
+- **Importance**: Code understanding still critical, but we don't code anymore
 
 ### 4. Commander of Compute
-- Transformer sa base de code en "machine auto-opérationnelle"
-- Maximiser son levier pour que le code se lance lui-même
-- Passer de "coder" à "concevoir des systèmes qui codent"
+- Transform codebase into "self-operating machine"
+- Maximize leverage so codebase runs itself
+- Move from "coding" to "designing systems that code"
 
-## 🎯 Objectif Personnel: Devenir Irréremplaçable
+## 🎯 Personal Objective: Become Irreplaceable
 
-**Mission TAC**: Transform to become an engineer they can't replace
-- Cible: Patron, entreprise, industrie, IA
-- Moyen: Levier 10X, 100X via systèmes agentic
-- Raison: L'ingénierie n'a jamais été écrire du code
+**TAC Mission**: Transform to become an engineer they can't replace
+- Target: Boss, company, industry, AI
+- Means: 10X, 100X leverage through agentic systems
+- Reason: Engineering was never about writing code
 
-## 🔄 Questions & Réflexions
+## 🔄 Questions & Reflections
 
-### Questions d'Omar:
-1. Comment concrètement appliquer "Stop Coding" dans mon quotidien?
-2. Quels outils agents utiliser pour commencer?
-3. Comment mesurer la progression vers ce nouveau rôle?
+### Omar's Questions:
+1. How to practically apply "Stop Coding" in daily life?
+2. Which agent tools to start with?
+3. How to measure progression toward this new role?
 
-### Réflexions de Claude:
-1. Ce changement nécessite une reprogrammation complète de nos habitudes
-2. La valeur se déplace de l'exécution vers la conception et supervision
-3. Il faut développer de nouvelles métriques de productivité
+### Claude's Reflections:
+1. This change requires complete reprogramming of our habits
+2. Value shifts from execution to design and supervision
+3. We need to develop new productivity metrics
 
-## 📝 Prochaines Actions
+## 📝 Next Actions
 
-- [ ] Finir de lire la leçon 001 complètement
-- [ ] Identifier les exercices pratiques
-- [ ] Commencer le premier projet agentique simple
-- [ ] Documenter nos premiers pas sans écrire de code
+- [ ] Finish reading lesson 001 completely
+- [ ] Identify practical exercises
+- [ ] Start first simple agentic project
+- [ ] Document our first steps without writing code
 
 ---
 
-**Mise à jour**: Nous avons créé ce dépôt d'apprentissage pour collaborer efficacement.
+**Update**: We created this learning repository to collaborate effectively.

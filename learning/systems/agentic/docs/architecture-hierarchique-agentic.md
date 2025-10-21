@@ -1,94 +1,115 @@
-# 📋 Architecture Hiérarchique Agentic - Préservation
+# 📋 Hierarchical Agentic Architecture - Preservation
 
-**Date**: 21 octobre 2025
-**Créateur**: Omar El Mountassir & Claude
-**Statut**: Document de préservation avant modifications
+**Date**: October 21, 2025
+**Creator**: Omar El Mountassir & Claude
+**Status**: Preservation document before modifications
 
-## 🎯 Vision Initiale d'Omar
+## 🎯 Omar's Initial Vision
 
-### Philosophie "Stop Coding" - Double Application
+### "Stop Coding" Philosophy - Double Application
 
-#### Pour Omar (Humain Strategist)
-- **Rôle**: Ne code PLUS directement
-- **Mission**: Vision stratégique et définition des objectifs
-- **Action**: Orchestre l'agent principal (Claude)
-- **Léviation**: Passe de "codeur" à "stratège agentic"
+#### For Omar (Human Strategist)
+- **Role**: NO MORE direct coding
+- **Mission**: Strategic vision and objective definition
+- **Action**: Orchestrate the main agent (Claude)
+- **Level up**: From "coder" to "agentic strategist"
 
-#### Pour Claude (Agent Principal)
-- **Rôle**: Ne code PAS directement non plus
-- **Mission**: Planification, coordination, délégation
-- **Action**: Crée et gère des agents subordonnés pour l'exécution
-- **Léviation**: Passe d'exécuteur à "manager d'agents"
+#### For Claude (Main Agent)
+- **Role**: NO MORE direct coding either
+- **Mission**: Planning, coordination, delegation
+- **Action**: Create and manage subordinate agents for execution
+- **Level up**: From executor to "agent manager"
 
-### Architecture Hiérarchique à 3 Niveaux
+### 3-Level Hierarchical Architecture
 
 ```
-Niveau 1: Omar (Strategist)
-    ↓ Donne vision et objectifs
-Niveau 2: Claude Principal (Main Agent)
-    ↓ Planifie, coordonne, délègue
-Niveau 3: Claude Subordonnés (Worker Agents)
-    ↓ Exécutent les tâches techniques
+Level 1: Omar (Strategist)
+    ↓ Gives vision and objectives
+Level 2: Claude Main Agent (Main Agent)
+    ↓ Plans, coordinates, delegates
+Level 3: Claude Subordinates (Worker Agents)
+    ↓ Execute technical tasks
 ```
 
-## 🏗️ Structure Technique Proposée
+## 🏗️ Proposed Technical Structure
 
-### Localisation des Agents
-- **Claude Principal**: Racine du projet (`/home/omar/work/learning/systems/agentic/`)
-- **Claude Subordonnés**: Sous-dossier séparé (ex: `workspace/`, `agents/`, ou `subordonnés/`)
+### Agent Locations
+- **Claude Main Agent**: Project root (`/home/omar/work/learning/systems/agentic/`)
+- **Claude Subordinates**: Separate subfolder (ex: `workspace/`, `agents/`, or `subordinates/`)
 
-### Fichiers de Configuration
-- **CLAUDE.md racine**: Instructions pour l'agent principal (moi)
-- **CLAUDE.md sous-dossier**: Instructions pour les agents subordonnés
+### Configuration Files
+- **CLAUDE.md root**: Instructions for main agent (me)
+- **CLAUDE.md subfolder**: Instructions for subordinate agents
 
-## ❌ Questions en Attente de Réponse
+## 🎯 Main Objective Defined
 
-1. **Structure des dossiers**: Quel nom exact pour le sous-dossier des subordonnés ?
+**Execution Speed + Learning Quality + Learning Preservation**
 
-2. **Instructions différenciées**: Les agents subordonnés doivent-ils avoir des instructions différentes de l'agent principal ?
+## 🔄 Hybrid Evolutive Architecture (Validated by Omar)
 
-3. **Communication**: Comment les remontées d'information s'opèrent-elles ?
-   - Subordonné → Principal → Strategist ?
-   - Ou communication directe possible ?
+### Phase 1: Learning (Current)
+```
+Omar (Strategist) → Claude Main Agent (Plans/Coordinates/Delegates) → Subordinates (Execute)
+```
+**Functioning**:
+- **Omar**: Strategic vision, global objectives
+- **Claude Main Agent**: Reformulation, planning, intelligent delegation, maintains coherence
+- **Subordinates**: Rapid technical execution
 
-4. **Portée des projets**:
-   - Un subordonné par projet ?
-   - Ou collaboration entre subordonnés possible ?
+### Phase 2: Maturity (Future)
+```
+Omar (Director) → Claude Main Agent (Orchestrates/Delegates) → Subordinates (Plan + Execute)
+```
+**Claude's Role in Phase 2**:
+- Remains the **main orchestrator** coordinating everything
+- Delegates more intelligently (planning AND execution)
+- Maintains global system coherence
+- Manages communication between subordinates
 
-5. **Initialisation**: Que signifie exactement "initialiser à la racine de ce pwd" ?
+**Transition**: When subordinates can handle planning + execution under my coordination
 
-## 🔄 État Actuel du Projet
+## ✅ Questions Resolved
 
-### Dépôt GitHub
+1. **Folder structure**: `workspace/` subfolder for subordinate agents
+2. **Differentiated instructions**:
+   - CLAUDE.md main: Focus on planning, coordination, delegation
+   - CLAUDE.md subordinates: Focus on technical execution, reporting
+3. **Communication**: Subordinate → Main Agent → Strategist (with learning preservation)
+4. **Scope**: Collaboration between subordinates possible under main agent supervision
+5. **Initialization**: Configure working environment for each level
+
+## 🔄 Current Project State
+
+### GitHub Repository
 - **URL**: https://github.com/Agent-Genesis/agentic-learning-journey
-- **Statut**: Configuré et fonctionnel
+- **Status**: Configured and functional
 
-### Structure Existantes
+### Existing Structure
 ```
 agentic/
-├── README.md                    # Parcours d'apprentissage
-├── docs/lessons/001/            # Contenu pédagogique
-├── notes/001-introduction.md    # Nos premiers apprentissages
-├── progress/checklist.md        # Suivi de progression
-├── exercises/                   # Vide, en attente
-├── projects/                    # Vide, en attente
-└── docs/                        # Contient ce document
+├── README.md                    # Learning journey
+├── docs/lessons/001/            # Educational content
+├── notes/001-introduction.md    # Our first learnings
+├── progress/checklist.md        # Progress tracking
+├── exercises/                   # Empty, waiting
+├── projects/                    # Empty, waiting
+└── docs/                        # Contains this document
 ```
 
-### Prochaines Actions (En Attente)
-1. Réponses aux questions ci-dessus
-2. Création du sous-dossier pour agents subordonnés
-3. Configuration des fichiers CLAUDE.md différenciés
-4. Initialisation de l'architecture hiérarchique
-5. Test de la chaîne de commandement
+### Next Actions (Pending)
+1. Answers to above questions
+2. Create subfolder for subordinate agents
+3. Configure differentiated CLAUDE.md files
+4. Initialize hierarchical architecture
+5. Test command chain
 
-## 💡 Principes Clés à Préserver
+## 💡 Key Principles to Preserve
 
-1. **Double "Stop Coding"**: Humain ET agent principal n'écrivent pas de code
-2. **Chaîne de commandement**: Strategist → Main Agent → Worker Agents
-3. **Autonomie croissante**: Chaque niveau gère son domaine de responsabilité
-4. **Documentation continue**: Préservation de l'évolution de l'architecture
+1. **Double "Stop Coding"**: Human AND main agent don't write code
+2. **Chain of command**: Strategist → Main Agent → Worker Agents
+3. **Growing autonomy**: Each level manages its area of responsibility
+4. **Continuous documentation**: Preserve architecture evolution
 
 ---
 
-**Note**: Ce document doit être préservé et utilisé comme référence pour toutes les futures modifications de l'architecture agentic.
+**Note**: This document must be preserved and used as reference for all future agentic architecture modifications.

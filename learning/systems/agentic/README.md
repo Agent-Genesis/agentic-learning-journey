@@ -1,59 +1,61 @@
-# 🤖 Parcours d'Apprentissage Agentic
+# 🤖 Agentic Learning Journey
 
-**Notre aventure collaborative dans les systèmes agentic avec Omar El Mountassir et Claude**
+**Our collaborative adventure in agentic systems with Omar El Mountassir and Claude**
 
-## 🎯 Objectif
+## 🎯 Objective
 
-Apprendre ensemble à maîtriser les systèmes agentic pour devenir des ingénieurs que l'IA ne peut pas remplacer. Ce dépôt documente notre progression, nos notes et nos projets pratiques.
+Learn together to master agentic systems to become engineers that AI cannot replace. This repository documents our progress, notes, and practical projects.
 
-## 📚 Programme d'Apprentissage
+## 📚 Learning Program
 
-### Leçon #1: Hello Agentic Coding - Become the Engineer They Can't Replace
+### Lesson #1: Hello Agentic Coding - Become the Engineer They Can't Replace
 
-**Status**: 🟡 En cours
-**Concepts clés**:
-- ✅ Comprendre pourquoi le codage manuel n'est plus suffisant
-- ✅ Adopter la mentalité "Stop Coding"
-- 🔄 Devenir un "Commander of Compute"
-- ⏳ Transformer le code en machines auto-opérationnelles
+**Status**: 🟡 In Progress
+**Key Concepts**:
 
-**Tactiques TAC (Tactical Agentic Coding)**:
-- Tactic #1: Stop Coding - Plus une seule ligne de code tapée
-- Rôle Phase 2: Planning & Reviewing
+- ✅ Understand why manual coding is no longer sufficient
+- ✅ Adopt the "Stop Coding" mindset
+- 🔄 Become a "Commander of Compute"
+- ⏳ Transform code into self-operating machines
 
-## 📝 Structure du Dépôt
+**TAC Tactics (Tactical Agentic Coding)**:
 
+- Tactic #1: Stop Coding - No more typing code manually
+- Phase 2 Role: Planning & Reviewing
+
+## 📝 Repository Structure
+
+```sh
+├── README.md                 # This file - our overall progress
+├── docs/lessons/             # Original educational content
+├── notes/                    # Our personal notes
+│   ├── 001-introduction.md   # Notes on lesson 1
+│   └── key-concepts.md       # Important concepts
+├── exercises/                # Practical exercises
+├── projects/                 # Agentic projects
+└── progress/                 # Our learning tracking
+    ├── checklist.md          # Lesson checklist
+    └── reflections.md        # Personal reflections
 ```
-├── README.md                 # Ce fichier - notre progression globale
-├── docs/lessons/             # Contenu pédagogique original
-├── notes/                    # Nos notes personnelles
-│   ├── 001-introduction.md   # Notes sur la leçon 1
-│   └── concepts-cles.md      # Concepts importants
-├── exercises/                # Exercices pratiques
-├── projects/                 # Projets agentic
-└── progress/                 # Suivi de notre apprentissage
-    ├── checklist.md          # Checklist des leçons
-    └── reflections.md        # Réflexions personnelles
-```
 
-## 🚀 Notre Approche
+## 🚀 Our Approach
 
-1. **Apprentissage collaboratif**: Omar et Claude apprennent ensemble
-2. **Pratique immédiate**: Appliquer chaque concept directement
-3. **Documentation continue**: Noter ce que nous apprenons
-4. **Projets réels**: Construire des systèmes agentic fonctionnels
+1. **Collaborative Learning**: Omar and Claude learn together
+2. **Immediate Practice**: Apply each concept directly
+3. **Continuous Documentation**: Note what we learn
+4. **Real Projects**: Build functional agentic systems
 
-## 📊 Progression Actuelle
+## 📊 Current Progress
 
-- **Leçon 001**: 🟡 50% - Lecture et compréhension initiale
-- **Exercices**: 🔴 0% - Pas encore commencés
-- **Projets**: 🔴 0% - Pas encore commencés
+- **Lesson 001**: 🟡 50% - Initial reading and understanding
+- **Exercises**: 🔴 0% - Not yet started
+- **Projects**: 🔴 0% - Not yet started
 
-## 🔗 Ressources Utiles
+## 🔗 Useful Resources
 
-- [Dépôt original](https://github.com/Agent-Genesis/agentic-system)
-- [Notre dépôt d'apprentissage](https://github.com/Agent-Genesis/agentic-learning-journey)
+- [Original Repository](https://github.com/Agent-Genesis/agentic-system)
+- [Our Learning Repository](https://github.com/Agent-Genesis/agentic-learning-journey)
 
 ---
 
-*Ce parcours représente notre engagement mutuel à maîtriser l'ingénierie agentic pour rester pertinents et performants dans l'ère de l'IA.*
+_This journey represents our mutual commitment to mastering agentic engineering to stay relevant and performant in the AI era._

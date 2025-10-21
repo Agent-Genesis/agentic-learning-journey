@@ -1,59 +1,52 @@
-# 📋 Checklist d'Apprentissage Agentic
+# 📋 Agentic Learning Checklist
 
-## Leçon 001: Hello Agentic Coding - Become the Engineer They Can't Replace
+## Lesson 001: Hello Agentic Coding - Become the Engineer They Can't Replace
 
-### 📚 Théorie
+### 📚 Theory
+- [x] Understand difference between Phase 1 (AI Coding) and Phase 2 (Agentic Coding)
+- [x] Adopt "Stop Coding" mindset
+- [x] Understand "Commander of Compute" role
+- [ ] Finish complete reading of lesson 001 material
+- [ ] Identify all remaining key concepts
+- [ ] Understand TAC tactics beyond Tactic #1
 
-- [x] Comprendre la différence entre Phase 1 (AI Coding) et Phase 2 (Agentic Coding)
-- [x] Intégrer la mentalité "Stop Coding"
-- [x] Comprendre le rôle de "Commander of Compute"
-- [ ] Finir la lecture complète du matériel de leçon 001
-- [ ] Identifier tous les concepts clés restants
-- [ ] Comprendre les tactiques TAC au-delà de Tactic #1
+### 🛠️ Practice
+- [ ] Identify our first agentic project
+- [ ] Configure our tools for non-"typing" coding
+- [ ] Create our first closed loop
+- [ ] Document process without writing manual code
 
-### 🛠️ Pratique
-
-- [ ] Identifier notre premier projet agentique
-- [ ] Configurer nos outils pour le codage sans "typing"
-- [ ] Créer notre première boucle fermée (closed loop)
-- [ ] Documenter le processus sans écrire de code manuellement
-
-### 🎯 Projets
-
-- [ ] Projet 1: Automatiser une tâche simple avec des agents
-- [ ] Projet 2: Créer un système qui supervise d'autres systèmes
-- [ ] Projet 3: Transformer un code existant en machine auto-opérationnelle
+### 🎯 Projects
+- [ ] Project 1: Automate simple task with agents
+- [ ] Project 2: Create system that supervises other systems
+- [ ] Project 3: Transform existing code into self-operating machine
 
 ### 📖 Documentation
+- [x] Create learning journey README
+- [x] Setup collaborative folder structure
+- [x] Start lesson 001 notes
+- [ ] Document each exercise completed
+- [ ] Create daily log
 
-- [x] Créer le README du parcours d'apprentissage
-- [x] Mettre en place la structure de dossiers collaborative
-- [x] Démarrer les notes de la leçon 001
-- [ ] Documenter chaque exercice réalisé
-- [ ] Créer un journal de bord quotidien
+## 📈 Progress Metrics
 
-## 📈 Métriques de Progression
+### Time Invested
+- Reading: ⏱️ 2h (in progress)
+- Practice: ⏱️ 0h
+- Projects: ⏱️ 0h
 
-### Temps Investi
+### Mastered Concepts
+- [x] "Stop Coding" philosophy
+- [x] Phase 2 vs Phase 1 role
+- [ ] Agent architecture
+- [ ] Closed Loops
+- [ ] Self-operating systems
 
-- Lecture: ⏱️ 2h (en cours)
-- Pratique: ⏱️ 0h
-- Projets: ⏱️ 0h
-
-### Concepts Maîtrisés
-
-- [x] Philosophie "Stop Coding"
-- [x] Rôle Phase 2 vs Phase 1
-- [ ] Architecture Agentique
-- [ ] Boucles Fermées (Closed Loops)
-- [ ] Systèmes Auto-opérationnels
-
-### Outils Maîtrisés
-
-- [ ] Configuration IDE pour travail agentique
-- [ ] Outils de planification automatique
-- [ ] Systèmes de review automatisés
+### Mastered Tools
+- [ ] IDE configuration for agentic work
+- [ ] Automated planning tools
+- [ ] Automated review systems
 
 ---
 
-**Dernière mise à jour**: 2025-10-21
+**Last updated**: 2025-10-21
